@@ -5,11 +5,17 @@ This repository showcases a collection of Machine Learning, Deep Learning, and G
 📁 Repository Structure
 Gen-AI-LAB-Practicals/
 │── Lab_1_*.ipynb
+
 │── Lab_2_*.ipynb
+
 │── Lab_3_*.ipynb
+
 │── Lab_4_*.ipynb
+
 │── Lab_5_*.ipynb
+
 │── Lab_6_*.ipynb
+
 │── README.md
 🚀 Experiments Included
 
