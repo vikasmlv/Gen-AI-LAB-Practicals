@@ -4,6 +4,7 @@ This repository showcases a collection of Machine Learning, Deep Learning, and G
 
 📁 Repository Structure
 Gen-AI-LAB-Practicals/
+
 │── Lab_1_*.ipynb
 
 │── Lab_2_*.ipynb
@@ -41,6 +42,7 @@ Public ML repositories
 
 📥 Setup Instructions
 Clone the repository
+
 git clone https://github.com/vikasmlv/Gen-AI-LAB-Practicals.git
 
 🧑‍💻 Author
